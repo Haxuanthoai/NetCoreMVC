@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Lesson09.Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|d:\\c#\\lesson09.lab\\lesson09.lab\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0E62FC-C554-4124-9DFC-81BE36966ACB}|Lesson09.Lab\\Lesson09.Lab.csproj|solutionrelative:lesson09.lab\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lesson09.Lab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:35:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\Program.cs",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Program.cs",
+              "RelativeToolTip": "Lesson09.Lab\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:41:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lesson09.Lab\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:37:10.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Lesson09.Lab\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T04:32:36.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Lesson09.Lab\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:03:01.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Lesson09.Lab\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAUwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:18:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Views\\Carts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\Views\\Carts\\Index.cshtml",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Views\\Carts\\Index.cshtml",
+              "RelativeToolTip": "Lesson09.Lab\\Views\\Carts\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:21:46.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fonts.css",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\wwwroot\\css\\fonts.css",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\wwwroot\\css\\fonts.css",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\wwwroot\\css\\fonts.css",
+              "RelativeToolTip": "Lesson09.Lab\\wwwroot\\css\\fonts.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-22T02:38:08.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Lesson09.Lab\\Models\\Cart.cs",
+              "ToolTip": "D:\\C#\\Lesson09.Lab\\Lesson09.Lab\\Models\\Cart.cs",
+              "RelativeToolTip": "Lesson09.Lab\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:13:09.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
